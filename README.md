@@ -18,7 +18,7 @@ Since the project is to provide in-depth analysis of delays and tell a story we 
 * Recommendations.
 
 ## Data Preparation and Exploration
-The data file was downloaded from the 30DL Github repository as it wasn't a continuous dataset that could get updated. It came in the .csv format and was imported into Power BI. At first glance, it looked much like this-
+The data file was just downloaded from the 30DL Github repository as it wasn't a continuous dataset that could get updated. It came in the .csv format and was imported into Power BI. At first glance, it looked much like this-
 ![raw data image]()
 
 ## Data Cleaning and Transformation
@@ -37,11 +37,13 @@ New columns were also created to change the time field into departure time(time 
 * Mornings had less delays compared to other parts of the day.
 * Weekdays were busy, with most delays happening on Tuesdays and Thursdays.
 * Only 6% of all delays recorded are cauesed by nature.
-
+---
+![dashboard image]()
+---
 ## Recommendations
 * Airlines such as Southwest(WN) should make sure preventive maintenance for their most flown aircrafts is done very regularly.
 * Airlines should optimize and introduce buffers or slack times distributed in an intelligent way across crew schedule.
 * Airports and airlines should make increased use of high tech monitoring to run effectively and detect delays. In a case where a fuel truck runs late, it could detect this and recommend parallel boarding(passengers board while refueling).
 * Passengers should fly in the morning to avoid delays.
-
+---
 Full article on [medium.](https://medium.com/@seyi_)
