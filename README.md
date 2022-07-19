@@ -19,16 +19,22 @@ Since the project is to provide in-depth analysis of delays and tell a story we 
 
 ## Data Preparation and Exploration
 The data file was just downloaded from the 30DL Github repository as it wasn't a continuous dataset that could get updated. It came in the .csv format and was imported into Power BI. At first glance, it looked much like this-
-![raw data image]()
+![raw data](Images/craw.png)
 
 ## Data Cleaning and Transformation
 From Power BI, it was loaded unto Power Query for transformation. Cleaning started with the first row being made into headers. The column distribution, profile, and quality were checked for irregularities and then information. This helped show that the dataset was fairly clean with no duplicates or empty cells
-![validating data image]()
+<br/>
+![validating data image](Images/cvalid.png)
+<br/>
+<br/>
 Columns were formatted with the values of the delay column "1 & 0" replaced with "Yes & No" for ease of understanding, values of the day-of-week column changed from numbers to day format, and others changed to correlate with their corresponding data types.
-![applied steps image]()
-New columns were also created to change the time field into departure time(time values). Process is well documented [here.](https://medium.com/@seyi_)
-![cleaned data image]()
-
+<br/>
+![applied steps image](Images/csteps.png)
+<br/>
+<br/>
+New columns were created to change the time field into departure time(time values). A new dataset detailing the reason for some delayed flights was also added and transformed with the general cleaning steps with unneeded columns removed. Process is well documented [here.](https://medium.com/@seyi_)
+<br/>
+![cleaned data image](Images/cleaned.png)
 ## Analysis/Insights
 * 44.54% of all flights taken were delayed and this numbered around 240k flights.
 * ATL(Hartsfield-Jackson Atlanta International Airport) had 15,000 delays, the highest of any. It was also the busiest airport.
