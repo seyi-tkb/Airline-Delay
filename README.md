@@ -44,6 +44,6 @@ New columns were also created to change the time field into departure time(time 
 * Airlines such as Southwest(WN) should make sure preventive maintenance for their most flown aircrafts is done very regularly.
 * Airlines should optimize and introduce buffers or slack times distributed in an intelligent way across crew schedule.
 * Airports and airlines should make increased use of high tech monitoring to run effectively and detect delays. In a case where a fuel truck runs late, it could detect this and recommend parallel boarding(passengers board while refueling).
-* Passengers should fly in the morning to avoid delays
+* Passengers should fly in the morning to avoid delays.
 ---
 Full article on [medium.](https://medium.com/@seyi_)
