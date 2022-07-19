@@ -7,15 +7,13 @@ The consequences of flight delay can significantly impact airports' on-time perf
 
 ## Problem Statement 
 The data was originally hosted on Kaggle and was purposed for projecting whether a given flight will be delayed  when given information about scheduled departure. For the purpose of this project, it will just be used to write a story about flight delay experience across the listed airports.
-The Federal Aviation Administration(FAA) considers a flight to be delayed when it is 15 minutes later than its scheduled time.
 
 ## Basis
 Since the project is to provide in-depth analysis of delays and tell a story we would be covering the following:
 * Amount of flights delayed;
 * Delay by airports and airlines;
 * Patterns with delayed flights - time of delays, day of week;
-* Possible causes and by how much;
-* Recommendations.
+* Possible causes and by how much.
 
 ## Data Preparation and Exploration
 The data file was just downloaded from the 30DL Github repository as it wasn't a continuous dataset that could get updated. It came in the .csv format and was imported into Power BI. At first glance, it looked much like this-
