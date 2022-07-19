@@ -1,6 +1,6 @@
 # Project 3 - Airline Delay
 * An analysis of flight delay data.
-* N.B: this is a summary. Comprehensive report written on this [medium page.](https://medium.com/@seyi_)
+* N.B: this is a summary. Comprehensive report written on this [medium page.](https://medium.com/@seyi_/project-3-airline-delay-analysis-with-power-bi-3cd099bbe039)
 
 ## Introduction
 The consequences of flight delay can significantly impact airports' on-time performance, airline operations and even passengers. Given the vast amount of data on flight travels, valuable insights can be drawn from this data to allow us gain a better understanding of flight delays. This project therefore presents the analysis driven from flight delay data of different airports and airlines.
@@ -30,7 +30,7 @@ Columns were formatted with the values of the delay column "1 & 0" replaced with
 ![applied steps image](Images/csteps.png)
 <br/>
 <br/>
-New columns were created to change the time field into departure time(time values). A new dataset detailing the reason for some delayed flights was also added and transformed with the general cleaning steps with unneeded columns removed. Process is well documented [here.](https://medium.com/@seyi_)
+New columns were created to change the time field into departure time(time values). A new dataset detailing the reason for some delayed flights was also added and transformed with the general cleaning steps with unneeded columns removed. Process is well documented [here.](https://medium.com/@seyi_/project-3-airline-delay-analysis-with-power-bi-3cd099bbe039)
 <br/>
 ![cleaned data image](Images/cleaned.png)
 ## Analysis/Insights
@@ -50,4 +50,4 @@ New columns were created to change the time field into departure time(time value
 * Airports and airlines should make increased use of high tech monitoring to run effectively and detect delays. In a case where a fuel truck runs late, it could detect this and recommend parallel boarding(passengers board while refueling).
 * Passengers should fly in the morning to avoid delays.
 ---
-Full article on [medium.](https://medium.com/@seyi_)
+Full article on [medium.](https://medium.com/@seyi_/project-3-airline-delay-analysis-with-power-bi-3cd099bbe039)
