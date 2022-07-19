@@ -37,7 +37,7 @@ New columns were created to change the time field into departure time(time value
 * 44.54% of all flights taken were delayed and this numbered around 240k flights.
 * ATL(Hartsfield-Jackson Atlanta International Airport) had 15,000 delays, the highest of any. It was also the busiest airport.
 * LAX(Los Angeles International Airport) to SFO(San Francisco International Airport) and its reverse flight were the most made trips with a combined 2156 flights. More than half of the flights were delayed.
-* Southwest Airlines(WN) were really affected as they accounted for around 27% of all delays.
+* Southwest Airlines(WN) was really affected as it accounted for around 27% of all delays.
 * Mornings had less delays compared to other parts of the day.
 * Weekdays were busy, with most delays happening on Tuesdays and Thursdays.
 * Only 6% of all delays recorded are cauesed by nature.
