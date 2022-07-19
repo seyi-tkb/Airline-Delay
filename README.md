@@ -38,7 +38,7 @@ New columns were also created to change the time field into departure time(time 
 * Weekdays were busy, with most delays happening on Tuesdays and Thursdays.
 * Only 6% of all delays recorded are cauesed by nature.
 ---
-![dashboard image]()
+![dashboard](Images/Delay Dashboard.jpg)
 ---
 ## Recommendations
 * Airlines such as Southwest(WN) should make sure preventive maintenance for their most flown aircrafts is done very regularly.
