@@ -40,7 +40,7 @@ New columns were created to change the time field into departure time(time value
 * Southwest Airlines(WN) was really affected as it accounted for around 27% of all delays.
 * Mornings had less delays compared to other parts of the day.
 * Weekdays were busy, with most delays happening on Tuesdays and Thursdays.
-* Only 6% of all delays recorded are cauesed by nature.
+* Only 6% of all delays recorded are caused by nature.
 ---
 ![dashboard](Images/dashboard.jpg)
 ---
